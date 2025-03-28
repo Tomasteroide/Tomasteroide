@@ -22,9 +22,9 @@
 ### :man_technologist: About me: Passionate about technology and data science
 :telescope: I currently work in the Data Department of a FINTECH :muscle:
 
-:seedling: I’m studying and practicing SQL, Python, and TypeScript.
+:seedling: I’m studying and practicing SQL, Python and TypeScript.
 
-:heartbeat: I love discovering new ways to automate tasks and improve work efficiency.
+:blue_book: I love discovering new ways to automate tasks and improve work efficiency.
 
 :mailbox: Want to get in touch? [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-tom%C3%A1s-avil%C3%A9s-caputo-78a6a9212/)
 
