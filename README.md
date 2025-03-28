@@ -20,7 +20,7 @@
 <div id="header" align="left">
 
 ### :man_technologist: About me: Passionate about technology and data science
-:telescope: I currently work in the Data Department of a FINTECH :muscle:
+:telescope: Currently working in the Data Department of a FINTECH :muscle:
 
 :seedling: I’m studying and practicing SQL, Python and TypeScript.
 
