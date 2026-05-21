@@ -20,9 +20,9 @@
 <div id="header" align="left">
 
 ### :man_technologist: About me: Passionate about technology and data science
-:telescope: Currently working in the Data Department of a FINTECH :muscle:
+:telescope: Currently working as Engineering Lead :muscle:
 
-:seedling: I’m studying and practicing SQL, Python and TypeScript.
+:seedling: I’m studying and practicing Cloud Architeture.
 
 :blue_book: I love discovering new ways to automate tasks and improve work efficiency.
 
