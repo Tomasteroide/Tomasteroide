@@ -37,7 +37,4 @@
     <img decoding="async" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
 </div>
 
-### :hammer_and_wrench: Languages:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tomasteroide&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasteroide&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
