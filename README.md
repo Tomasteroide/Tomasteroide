@@ -36,5 +36,3 @@
     <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
     <img decoding="async" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasteroide&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
